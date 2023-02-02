@@ -161,7 +161,7 @@ System.out.println("Если возраст ребенка равен " + age + 
         if (rez < three) {
             rez = three;
         }
-        System.out.println("Большее из трех чисел - " + rez);
+        System.out.println("Большее  из трех чисел - " + rez);
         System.out.println();
     }
 }
